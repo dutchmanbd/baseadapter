@@ -17,6 +17,14 @@ allprojects {
 Add the dependency
 
 ```
+android {
+    buildFeatures{
+        viewBinding = true
+    }
+}
+```
+
+```
 dependencies {
 	implementation 'com.github.dutchmanbd:baseadapter:1.0.1'
 }
