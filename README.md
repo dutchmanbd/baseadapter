@@ -1,6 +1,8 @@
 # BaseAdapter
-Base Adapter Project For Kotlin
 [![](https://jitpack.io/v/dutchmanbd/baseadapter.svg)](https://jitpack.io/#dutchmanbd/baseadapter)
+
+Base Adapter Project For Kotlin
+
 ## Get Started
 Add it in your root build.gradle at the end of repositories:
 
